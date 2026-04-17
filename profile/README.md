@@ -9,7 +9,7 @@ Welcome to the open-source ecosystem of Mighty Doodle — a playful literacy pla
   The main application where children learn through engaging mini-games.
 
 - ⚙️ **App Service (Backend for App)**  
-  https://github.com/Mighty-Doodle/mighty-doodle-appservice  
+  https://github.com/Mighty-Doodle/mighty-doodle-app-service  
   Serves the Unity app and handles core backend functionality.
 
 - 🌐 **Web Service (Backend for Portal)**  
